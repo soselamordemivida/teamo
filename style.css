@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background: linear-gradient(to top right, #ffd1dc, #ffe0f0);
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Patrick Hand', cursive;
   color: #d6336c;
   display: flex;
   justify-content: center;
@@ -51,7 +51,7 @@ body::before {
 h1 {
   font-size: 2.2em;
   margin-bottom: 10px;
-  font-weight: 700;
+  font-weight: normal;
 }
 
 p {
@@ -70,7 +70,6 @@ p {
   border-radius: 30px;
   transition: background-color 0.3s;
   max-width: 300px;
-  font-weight: 600;
 }
 
 .links a:hover {
